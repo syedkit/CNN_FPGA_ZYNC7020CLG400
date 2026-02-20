@@ -25,6 +25,8 @@ This repository contains the complete design, development, and implementation of
 
 The implementation is carried out on the **Xilinx Zynq-7020 SoC platform**, which combines ARM processors with FPGA programmable logic for heterogeneous computing.
 
+**NOTE:-**(READ THIS FIRST)
+READ THIS DOCUMENT FOR DATA METRIC ANALYSIS :-  https://github.com/syedkit/CNN_FPGA_ZYNC7020CLG400/blob/a9df090dc3cce925667c1bb10bcdf79404288151/PROJECT%20IMPLEMENTATION%20%E2%80%93%20DATA-DRIVEN%20STRUCTURED%20SUMMARY.docx
 ---
 
 ## Motivation
