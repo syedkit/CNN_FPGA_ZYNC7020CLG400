@@ -1,0 +1,156 @@
+<ENTRY>
+{
+ "thisFile": "C:/pro_10_02_2026_s\\vitis\\hls\\depth\\depth\\depth.hlsrun_package_summary",
+ "connectId": "",
+ "serverToken": "",
+ "timestamp": "0"
+}
+</ENTRY>
+<ENTRY>
+{
+ "type": "ET_CmdStep",
+ "dateTimestamp": "02/10/26 14:15:27",
+ "timestampMillis": "1770713127077",
+ "buildStep": {
+  "cmdId": "a0a1e34b-9a04-4cac-87eb-76cac77886fb",
+  "name": "vitis-run",
+  "logFile": "C:/pro_10_02_2026_s\\vitis\\hls\\depth\\depth\\logs\\depth.steps.log",
+  "commandLine": "C:/Xilinx/2025.1/Vitis/bin/unwrapped/win64.o/vitis-run.exe  --mode hls --package --config C:\\pro_10_02_2026_s\\vitis\\hls\\depth\\hl_co.cfg --work_dir depth ",
+  "args": [
+   "--mode",
+   "hls",
+   "--package",
+   "--config",
+   "C:\\pro_10_02_2026_s\\vitis\\hls\\depth\\hl_co.cfg",
+   "--work_dir",
+   "depth"
+  ],
+  "iniFiles": [],
+  "cwd": "C:\\pro_10_02_2026_s\\vitis\\hls\\depth"
+ }
+}
+</ENTRY>
+<ENTRY>
+{
+ "type": "ET_Status",
+ "dateTimestamp": "02/10/26 14:15:27",
+ "timestampMillis": "1770713127078",
+ "status": {
+  "cmdId": "a0a1e34b-9a04-4cac-87eb-76cac77886fb",
+  "state": "CS_RUNNING"
+ }
+}
+</ENTRY>
+<ENTRY>
+{
+ "type": "ET_FlowMetaData",
+ "dateTimestamp": "02/10/26 14:15:34",
+ "timestampMillis": "1770713134679",
+ "buildSummary": {
+  "hardwarePlatform": "",
+  "hardwareDsa": "",
+  "platformDirectory": "",
+  "runtime": "",
+  "systemConfig": "",
+  "flow": "BF_RUN",
+  "target": "TT_HLS_IP",
+  "kernels": [
+   {
+    "base": {
+     "type": "KERNEL",
+     "name": "depthwise_conv",
+     "file": "C:/pro_10_02_2026_s\\vitis\\hls\\depth\\syedeepwise.zip",
+     "reports": [],
+     "uuid": ""
+    },
+    "sources": [
+     "C:/pro_10_02_2026_s\\vitis\\hls\\depth\\depthwise.cpp"
+    ],
+    "psSources": [],
+    "cuNames": [],
+    "type": "HLS",
+    "frequency": 0,
+    "freqUnits": ""
+   }
+  ],
+  "toolVersion": "2025.1"
+ }
+}
+</ENTRY>
+<ENTRY>
+{
+ "type": "ET_SubCmdStep",
+ "dateTimestamp": "02/10/26 14:15:34",
+ "timestampMillis": "1770713134681",
+ "buildStep": {
+  "cmdId": "ec93b2e1-97d8-401e-9347-5dc61019df0e",
+  "name": "",
+  "logFile": "C:/pro_10_02_2026_s\\vitis\\hls\\depth\\depth\\hls\\hls.log",
+  "commandLine": "",
+  "args": [],
+  "iniFiles": [],
+  "cwd": "C:\\pro_10_02_2026_s\\vitis\\hls\\depth"
+ }
+}
+</ENTRY>
+<ENTRY>
+{
+ "type": "ET_Status",
+ "dateTimestamp": "02/10/26 14:15:34",
+ "timestampMillis": "1770713134683",
+ "status": {
+  "cmdId": "ec93b2e1-97d8-401e-9347-5dc61019df0e",
+  "state": "CS_RUNNING"
+ }
+}
+</ENTRY>
+<ENTRY>
+{
+ "type": "ET_Status",
+ "dateTimestamp": "02/10/26 14:16:00",
+ "timestampMillis": "1770713160044",
+ "status": {
+  "cmdId": "ec93b2e1-97d8-401e-9347-5dc61019df0e",
+  "state": "CS_PASSED"
+ }
+}
+</ENTRY>
+<ENTRY>
+{
+ "type": "ET_Status",
+ "dateTimestamp": "02/10/26 14:16:00",
+ "timestampMillis": "1770713160334",
+ "status": {
+  "cmdId": "a0a1e34b-9a04-4cac-87eb-76cac77886fb",
+  "state": "CS_PASSED"
+ }
+}
+</ENTRY>
+<ENTRY>
+{
+ "type": "ET_Report",
+ "dateTimestamp": "02/10/26 14:16:00",
+ "timestampMillis": "1770713160352",
+ "report": {
+  "path": "",
+  "name": "",
+  "fileType": "HTML",
+  "reportType": "GLOBAL_RULECHECK_GUIDANCE",
+  "cmdId": ""
+ }
+}
+</ENTRY>
+<ENTRY>
+{
+ "type": "ET_Report",
+ "dateTimestamp": "02/10/26 14:16:00",
+ "timestampMillis": "1770713160353",
+ "report": {
+  "path": "",
+  "name": "",
+  "fileType": "BINARY_PROTOBUF",
+  "reportType": "GLOBAL_RULECHECK_GUIDANCE",
+  "cmdId": ""
+ }
+}
+</ENTRY>

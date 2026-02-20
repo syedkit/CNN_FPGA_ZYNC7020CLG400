@@ -1,0 +1,9 @@
+{
+  "name": "depth",
+  "type": "HLS",
+  "configuration": {
+    "componentType": "HLS",
+    "configFiles": ["..\/hl_co.cfg"],
+    "work_dir": "."
+  }
+}
