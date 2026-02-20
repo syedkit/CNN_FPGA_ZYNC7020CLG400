@@ -1,0 +1,28 @@
+13:51:05 INFO  : updated workspace path: C:\pro_10_02_2026_s\vitis\hls
+13:51:05 INFO  : created .gitignore file for the project C:\pro_10_02_2026_s\vitis\hls
+13:51:05 INFO  : Marking the target connection as default Local
+13:51:05 INFO  : Marking the target connection as default Linux Agent
+13:51:05 INFO  : Marking the target connection as default XRTServer
+13:51:05 INFO  : Marking the target connection as default LinuxEmulation
+13:51:05 INFO  : Marking the target connection as default QEMU
+13:51:08 INFO  : created .gitignore file for the project C:\pro_10_02_2026_s\vitis\hls\depth
+13:51:12 INFO  : [INFO]: Initializing repositories
+13:51:12 INFO  : [INFO]: Successfully set the EmbeddedSW path, refer .repo.yaml for more details.
+13:51:12 INFO  : Successfully created repository data at C:\Users\syedb\AppData\Local\Temp\rigel_lopper_syedb16486073127028269313
+13:51:12 INFO  : cmd.exe, /C, empyro.bat get_template_data -d C:\Users\syedb\AppData\Local\Temp\rigel_lopper_syedb5739861542425160117 -r C:\Users\syedb\AppData\Local\Temp\rigel_lopper_syedb16486073127028269313\.repo.yaml
+13:51:14 INFO  : Embedded Template List generated successfully
+13:51:14 INFO  : cmd.exe, /C, empyro.bat repo -st   C:\Xilinx\2025.1\Vitis\data\embeddedsw
+13:51:18 INFO  : [INFO]: Initializing repositories
+13:51:18 INFO  : [INFO]: Successfully set the EmbeddedSW path, refer .repo.yaml for more details.
+13:51:18 INFO  : Successfully created repository data at C:\pro_10_02_2026_s\vitis\hls/_ide\.wsdata
+13:51:18 INFO  : cmd.exe, /C, empyro.bat get_template_data -d C:\Users\syedb\AppData\Local\Temp\rigel_lopper_syedb15627939807725938752 -r C:\pro_10_02_2026_s\vitis\hls\_ide\.wsdata\.repo.yaml
+13:51:19 INFO  : Embedded Template List generated successfully
+14:20:23 INFO  : cmd.exe, /C, empyro.bat get_template_data -d C:\Users\syedb\AppData\Local\Temp\rigel_lopper_syedb3401317043771805635 -r C:\pro_10_02_2026_s\vitis\hls\_ide\.wsdata\.repo.yaml
+21:25:14 INFO  : updated workspace path: C:\pro_10_02_2026_s\vitis\hls
+21:25:15 INFO  : created .gitignore file for the project C:\pro_10_02_2026_s\vitis\hls
+21:25:16 INFO  : Embedded Template List generated successfully
+21:25:16 INFO  : cmd.exe, /C, empyro.bat get_template_data -d C:\Users\syedb\AppData\Local\Temp\rigel_lopper_syedb13788360699273146416 -r C:\pro_10_02_2026_s\vitis\platform_s\_ide\.wsdata\.repo.yaml
+21:25:18 INFO  : Embedded Template List generated successfully
+21:25:18 INFO  : cmd.exe, /C, empyro.bat get_template_data -d C:\Users\syedb\AppData\Local\Temp\rigel_lopper_syedb7093836973430947611 -r C:\pro_10_02_2026_s\vitis\hls\_ide\.wsdata\.repo.yaml
+21:25:20 INFO  : Embedded Template List generated successfully
+21:33:37 INFO  : cmd.exe, /C, empyro.bat get_template_data -d C:\Users\syedb\AppData\Local\Temp\rigel_lopper_syedb7416144478975230591 -r C:\pro_10_02_2026_s\vitis\hls\_ide\.wsdata\.repo.yaml
