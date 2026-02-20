@@ -1,0 +1,7 @@
+//arch = zynq; split = false; format = BIN
+the_ROM_image:
+{
+	[bootloader]C:\pro_10_02_2026_s\vitis\platform_s\zynq7020_mobilenet\export\zynq7020_mobilenet\sw\boot\fsbl.elf
+	C:\pro_10_02_2026_s\vitis\platform_s\app_component_mobilenet\build\app_component_mobilenet.elf
+	C:\pro_10_02_2026_s\vivado\mobilenet_hw\mobilenet_hw.runs\impl_1\mobilenet_bd_wrapper.bit
+}
