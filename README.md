@@ -220,7 +220,9 @@ The project was verified using:
 * IoT connectivity
 
 ---
-
+## Youtube link
+https://youtu.be/NbTH9hBYEGw?si=EbCuzsk4BNSZx_GX
+---
 ## Acknowledgement
 
 We sincerely thank our faculty and mentors at **Kangeyam Institute of Technology** for their guidance and support. This work was carried out as part of research and academic development in embedded AI and hardware acceleration.
